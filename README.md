@@ -25,8 +25,10 @@ I specialize in the intersection of Materials Science, Artificial Intelligence, 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
 
 **Data Engineering & AI**
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -39,15 +41,15 @@ I specialize in the intersection of Materials Science, Artificial Intelligence, 
 ![MATLAB](https://img.shields.io/badge/matlab-%23e16737.svg?style=for-the-badge&logo=matlab&logoColor=white)
 
 **Infrastructure & Developer Tools**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
 ---
 
 ### 📁 Featured Projects
-*   **Tech Market Data Pipeline (In Progress):** An end-to-end Data Engineering project that extracts daily stock data for tech giants using `yfinance`, validates it with `Pydantic`, stores it in a Dockerized `PostgreSQL` database, and orchestrates daily runs via `GitHub Actions`.
+*   **Tech Market Data Pipeline (In Progress):** A robust end-to-end Data Engineering ETL that extracts daily stock data using `yfinance`, validates it with `Pydantic`, stages raw data in `AWS S3`, loads it into a Dockerized `PostgreSQL` database, and orchestrates workflows using `Apache Airflow`. Quality assured via `pytest`.
 *   **Quantum Machine Learning Sandbox:** A repository containing quantum optimization algorithms and cryptographic models developed using `Qiskit` and `PennyLane`.
 *   **Physics Computational Tools:** A collection of Python and MATLAB scripts for simulating physical phenomena (Mechanics, Electromagnetism, Oscillations), used to bridge the gap between theoretical physics and engineering applications.
 
