@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Juan Esteban Salgado</h1>
-<h3 align="center">Data Engineer | Quantum Machine Learning Researcher | Engineering Physicist</h3>
+<h3 align="center">Data Engineer | AI Developer | Engineering Physicist</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/juanestebansalgado"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
