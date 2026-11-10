@@ -19,7 +19,7 @@ I specialize in the intersection of Data Engineering, Artificial Intelligence, M
 *   🎓 **Education:** MSc in Physics at Universidad Nacional de Colombia. Hold a B.Sc. in Engineering Physics (Graduated with Honors).
 *   🌱 **Currently building:** An automated, end-to-end Financial Data ETL pipeline using Python, PostgreSQL, and Docker.
 *   🏫 **Also:** University Professor teaching fundamental physics and computational simulation to engineering students.
-*   💬 **Ask me about:** Data Engineering, AI Devlopment, Machine Learning (ML), Quantum Machine Learning (QML), ETL pipelines, MEMS/SAW sensors, or Physics simulations.
+*   💬 **Ask me about:** Data Engineering, AI Development, Machine Learning (ML), Quantum Machine Learning (QML), ETL pipelines, MEMS/SAW sensors, or Physics simulations.
 
 ---
 
