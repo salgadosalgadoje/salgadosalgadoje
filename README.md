@@ -9,12 +9,12 @@
 ---
 
 ### 👨‍🔬 About Me
-I specialize in the intersection of Materials Science, Artificial Intelligence, and Quantum Computing. My background bridges the gap between rigorous academic research—focusing on complex physical devices—and the technical agility required to build scalable Data Engineering pipelines and software solutions for the industry.
+I specialize in the intersection of Data Engineering, Artificial Intelligence, Materials Science and Quantum Computing. My background bridges the gap between rigorous academic research—focusing on complex physical devices—and the technical agility required to build scalable Data Engineering pipelines and software solutions for the industry.
 
-*   🎓 **Education:** Pursuing an MSc in Physics at Universidad Nacional de Colombia (Expected 2026). Hold a B.Sc. in Engineering Physics (Graduated with Honors).
+*   🎓 **Education:** MSc in Physics at Universidad Nacional de Colombia. Hold a B.Sc. in Engineering Physics (Graduated with Honors).
 *   🌱 **Currently building:** An automated, end-to-end Financial Data ETL pipeline using Python, PostgreSQL, and Docker.
 *   🏫 **Also:** University Professor teaching fundamental physics and computational simulation to engineering students.
-*   💬 **Ask me about:** Quantum Machine Learning (QML), ETL pipelines, MEMS/SAW sensors, or Physics simulations.
+*   💬 **Ask me about:** Data Engineering, AI Devlopment, Machine Learning (ML), Quantum Machine Learning (QML), ETL pipelines, MEMS/SAW sensors, or Physics simulations.
 
 ---
 
@@ -29,11 +29,15 @@ I specialize in the intersection of Materials Science, Artificial Intelligence, 
 
 **Data Engineering & AI**
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=Ollama&logoColor=black)
+![Open WebUI](https://img.shields.io/badge/Open_WebUI-343541?style=for-the-badge)
+![ComfyUI](https://img.shields.io/badge/ComfyUI-4B4B4B?style=for-the-badge)
 
 **Quantum Computing & Simulation**
 ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
@@ -50,8 +54,9 @@ I specialize in the intersection of Materials Science, Artificial Intelligence, 
 ---
 
 ### 📁 Featured Projects
-*   **Tech Market Data Pipeline (In Progress):** A robust end-to-end Data Engineering ETL that extracts daily stock data using `yfinance`, validates it with `Pydantic`, stages raw data in `AWS S3`, loads it into a Dockerized `PostgreSQL` database, and orchestrates workflows using `Apache Airflow`. Quality assured via `pytest`.
-*   **Quantum Machine Learning Sandbox:** A repository containing quantum optimization algorithms and cryptographic models developed using `Qiskit` and `PennyLane`.
+*   **[Tech Market Data Pipeline](https://github.com/salgadosalgadoje/tech-market-pipeline):** A robust end-to-end Data Engineering ETL that extracts daily stock data using `yfinance`, validates it with `Pydantic`, stages raw data in `AWS S3`, loads it into a Dockerized `PostgreSQL` database, and orchestrates workflows using `Apache Airflow`. Quality assured via `pytest`.
+*   **[Mn-Cr Doped Semiconductors](https://github.com/salgadosalgadoje/mn-cr-doped-semiconductors):** Research and computational analysis focused on manganese and chromium-doped semiconductors, utilizing Jupyter Notebooks for materials science applications.
+*   **[Advanced SQL Queries](https://github.com/salgadosalgadoje/advanced-sql-queries):** A technical collection of complex database queries and scripts showcasing advanced data extraction, aggregation, and analytical SQL functions.
+*   **[LeetCode Patterns](https://github.com/salgadosalgadoje/leetcode-patterns):** A structured portfolio of algorithmic problem-solving patterns and data structure implementations in Python, demonstrating continuous technical preparation.
+*   **Quantum Machine Learning Sandbox:** A repository containing quantum optimization algorithms and cryptographic models developed using `Qiskit` and `PennyLane`. 
 *   **Physics Computational Tools:** A collection of Python and MATLAB scripts for simulating physical phenomena (Mechanics, Electromagnetism, Oscillations), used to bridge the gap between theoretical physics and engineering applications.
-
-*(Links will be updated as repositories become public)*
