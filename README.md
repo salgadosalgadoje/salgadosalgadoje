@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="Technical Portfolio.webp" alt="Juan Esteban Salgado - Technical Portfolio: Data Engineering & AI" width="800px">
+  <img src="Technical Portfolio.webp" alt="Juan Esteban Salgado - Technical Portfolio: Data Engineering & AI" width="100%" style="max-width: 800px;">
 </div>
+<br>
 
 <h1 align="center">Hi there! 👋 I'm Juan Esteban Salgado</h1>
 <h3 align="center">Data Engineer | AI Developer | Engineering Physicist</h3>
