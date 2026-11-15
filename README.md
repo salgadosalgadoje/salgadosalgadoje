@@ -37,7 +37,10 @@ I specialize in the intersection of Data Engineering, Artificial Intelligence, M
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=Ollama&logoColor=black)
@@ -51,11 +54,23 @@ I specialize in the intersection of Data Engineering, Artificial Intelligence, M
 
 **Infrastructure & Developer Tools**
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+---
+
+### 🏆 Certifications & Credentials
+
+* **[IBM AI Engineering Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/certificate/ENACLBGEXFXW)** — *IBM* (Deep Learning with PyTorch, LLM Fine-Tuning & Neural Networks)
+* **[Generative AI Applications with RAG and LangChain](https://www.coursera.org/account/accomplishments/verify/WYTQJ5YDHW3T)** — *IBM* (Vector Databases, Retrieval Pipelines & LLM Orchestration)
+* **[Databases and SQL for Data Science with Python](https://www.coursera.org/account/accomplishments/verify/W3J97WZ9SB43)** — *IBM* (Relational Modeling, Complex Queries & Python DB-API)
+* **[Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/verify/AXMGD50I8HLA)** — *IBM* (Data Structures, APIs & Data Manipulation)
+* **[End-to-End Analytics with Microsoft Fabric](https://learn.microsoft.com/es-es/users/juanestebansalgado-6008/achievements/8v8rz2kw)** — *Microsoft* (OneLake, Lakehouse Architecture & Power BI)
+* **[AI Agents & Applications in Azure](https://learn.microsoft.com/es-es/users/juanestebansalgado-6008/achievements/xpfqaf3y)** — *Microsoft Azure* (Intelligent Agents & Cloud AI Solutions)
+* **[GitHub Foundations](https://www.credly.com/badges/cbf57729-1a4e-4823-8109-e74e489b8348/linked_in_profile)** — *GitHub* (Version Control, Branching Strategies & Collaborative Workflows)
 ---
 
 ### 📁 Featured Projects
