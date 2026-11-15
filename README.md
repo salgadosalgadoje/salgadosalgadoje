@@ -68,9 +68,10 @@ I specialize in the intersection of Data Engineering, Artificial Intelligence, M
 * **[Generative AI Applications with RAG and LangChain](https://www.coursera.org/account/accomplishments/verify/WYTQJ5YDHW3T)** — *IBM* (Vector Databases, Retrieval Pipelines & LLM Orchestration)
 * **[Databases and SQL for Data Science with Python](https://www.coursera.org/account/accomplishments/verify/W3J97WZ9SB43)** — *IBM* (Relational Modeling, Complex Queries & Python DB-API)
 * **[Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/verify/AXMGD50I8HLA)** — *IBM* (Data Structures, APIs & Data Manipulation)
-* **[End-to-End Analytics with Microsoft Fabric](https://learn.microsoft.com/es-es/users/juanestebansalgado-6008/achievements/8v8rz2kw)** — *Microsoft* (OneLake, Lakehouse Architecture & Power BI)
-* **[AI Agents & Applications in Azure](https://learn.microsoft.com/es-es/users/juanestebansalgado-6008/achievements/xpfqaf3y)** — *Microsoft Azure* (Intelligent Agents & Cloud AI Solutions)
-* **[GitHub Foundations](https://www.credly.com/badges/cbf57729-1a4e-4823-8109-e74e489b8348/linked_in_profile)** — *GitHub* (Version Control, Branching Strategies & Collaborative Workflows)
+* **[End-to-End Analytics with Microsoft Fabric](https://learn.microsoft.com/es-es/users/juanestebansalgado-6008/achievements/xpfqaf3y)** — *Microsoft* (OneLake, Lakehouse Architecture & Power BI)
+* **[AI Agents & Applications in Azure](https://learn.microsoft.com/es-es/users/juanestebansalgado-6008/achievements/bubl7ycd)** — *Microsoft Azure* (Intelligent Agents & Cloud AI Solutions)
+* **[GitHub Foundations](https://learn.microsoft.com/es-es/users/juanestebansalgado-6008/achievements/8v8rz2kw)** — *GitHub* (Version Control, Branching Strategies & Collaborative Workflows)
+* **[Quantum Machine Learning](https://www.credly.com/badges/cbf57729-1a4e-4823-8109-e74e489b8348/linked_in_profile)** — *IBM* (Qiskit, Variational Quantum Algorithms & Quantum Kernels)
 ---
 
 ### 📁 Featured Projects
