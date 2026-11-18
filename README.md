@@ -3,7 +3,7 @@
 </div>
 <br>
 
-<h1 align="center">Hi there! 👋 I'm Juan Esteban Salgado</h1>
+<h1 align="center">Juan Esteban Salgado</h1>
 <h3 align="center">Data Engineer | AI Developer | Engineering Physicist</h3>
 
 <p align="center">
