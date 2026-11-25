@@ -17,7 +17,7 @@
 I specialize in the intersection of Data Engineering, Artificial Intelligence, Materials Science and Quantum Computing. My background bridges the gap between rigorous academic research—focusing on complex physical devices—and the technical agility required to build scalable Data Engineering pipelines and software solutions for the industry.
 
 *   🎓 **Education:** MSc in Physics at Universidad Nacional de Colombia. Hold a B.Sc. in Engineering Physics (Graduated with Honors).
-*   🌱 **Currently building:** An automated, end-to-end Financial Data ETL pipeline using Python, PostgreSQL, and Docker.
+*   🌱 **Currently building:** Building an end-to-end banking risk analytics pipeline over 2.26M+ LendingClub loans using **PostgreSQL 16** (Kimball Star Schema), **Polars**, **Pydantic v2**, **SciPy**, and **Power BI** (DAX, What-If parameters & RLS) to model default rates, LGD, ROI, and quarterly cohort deterioration.
 *   🏫 **Also:** University Professor teaching fundamental physics and computational simulation to engineering students.
 *   💬 **Ask me about:** Data Engineering, AI Development, Machine Learning (ML), Quantum Machine Learning (QML), ETL pipelines, MEMS/SAW sensors, or Physics simulations.
 
@@ -76,6 +76,7 @@ I specialize in the intersection of Data Engineering, Artificial Intelligence, M
 
 ### 📁 Featured Projects
 *   **[Tech Market Data Pipeline](https://github.com/salgadosalgadoje/tech-market-pipeline):** A robust end-to-end Data Engineering ETL that extracts daily stock data using `yfinance`, validates it with `Pydantic`, stages raw data in `AWS S3`, loads it into a Dockerized `PostgreSQL` database, and orchestrates workflows using `Apache Airflow`. Quality assured via `pytest`.
+*   **[Credit Risk & Vintage Analytics](https://github.com/salgadosalgadoje/credit-risk-vintage-analytics):** An end-to-end financial analytics pipeline that ingests 2.26M+ LendingClub loan records using `Polars`, validates data contracts with `Pydantic`, models a Kimball Star Schema in a Dockerized `PostgreSQL` warehouse, computes vintage cohort default curves with `SQL` and `SciPy`, and delivers executive risk dashboards in `Power BI`. Quality assured via `pytest`.
 *   **[SAW AlN/Si Multiphysics](https://github.com/salgadosalgadoje/saw-aln-si-multiphysics):** Theoretical and computational modeling of Rayleigh surface acoustic waves (SAW) in `AlN/Si(111)` thin films and magnetron sputtering plasma kinetics for MEMS sensor applications, built with `Python` (`NumPy`, `SciPy`, `Matplotlib`) and `Jupyter Notebooks`.
 *   **[Mn-Cr Doped Semiconductors](https://github.com/salgadosalgadoje/mn-cr-doped-semiconductors):** Theoretical and computational modeling of magnetic and thermodynamic properties (Curie temperature, reduced magnetization, and magnon heat capacity) in Diluted Magnetic Semiconductors (`AlN`, `GaN`, `GaSb`), built with `Python` (`NumPy`, `SciPy`, `Matplotlib`) and `Jupyter Notebooks`.
 *   **[Advanced SQL Queries](https://github.com/salgadosalgadoje/advanced-sql-queries):** A technical collection of complex database queries and scripts showcasing advanced data extraction, aggregation, and analytical SQL functions.
